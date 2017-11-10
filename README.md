@@ -2,13 +2,13 @@
 Making R easier to use.
 
 easyR initial setup
-```
+```R
 # Set working directory to the current directory of the source file
 setwd_cur()
 ```
 
 easyR arrangement of ggplots
-```
+```R
 library(ggplot2)
 library(gridExtra)
 library(grid)
