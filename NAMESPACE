@@ -3,5 +3,6 @@
 export(cur_dir)
 export(cur_dir_source)
 export(get_legend)
+export(is_all_unique)
 export(remove_legend)
 export(setwd_cur)
