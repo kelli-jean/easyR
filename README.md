@@ -1,5 +1,9 @@
 # easyR
-Making R easier to use.
+Making R easier to use. To install run the following in R:
+
+```R
+devtools::install_github("kelli-jean/easyR")
+```
 
 ## easyR initial setup
 ```R
